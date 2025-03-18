@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="745" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z613fCxc3z9MuEpMm_sQ-3" value="接收/手工录入线索信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="745" width="229" height="49" as="geometry" />
+          <mxGeometry x="230" y="745" width="229" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Z613fCxc3z9MuEpMm_sQ-4" value="自动/手工下发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="569" y="683" width="165" height="49" as="geometry" />
