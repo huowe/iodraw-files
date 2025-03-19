@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
   <diagram name="第 1 页" id="iUMvGWJL7YpW9Rlw1kT6">
-    <mxGraphModel dx="3191" dy="1702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,10 +41,10 @@
           <mxGeometry x="981" y="498" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="B1X0fQZRUtMoHVfmRCrf-13" value="选取抽查类别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="881" y="687" width="126" height="51" as="geometry" />
+          <mxGeometry x="954" y="691" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="B1X0fQZRUtMoHVfmRCrf-14" value="接收子计划" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1057" y="687" width="110" height="51" as="geometry" />
+          <mxGeometry x="1109" y="687" width="110" height="51" as="geometry" />
         </mxCell>
         <mxCell id="B1X0fQZRUtMoHVfmRCrf-15" value="设置抽查比例" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="881" y="788" width="126" height="51" as="geometry" />
